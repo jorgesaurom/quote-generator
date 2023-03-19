@@ -1,0 +1,25 @@
+body{
+background-color: palegreen;
+text-align: center;
+}
+
+.capa{
+background-color: rgba(247, 0, 255, 0.445);
+text-align: center;
+width:50%;
+margin: auto;
+border-style: hidden;
+border: groove ;
+border-color: black;
+padding: 1%;
+}
+
+button{
+font-size: 40px;
+border-radius: 12px;
+padding: 1%;
+margin: 5%;
+background-color: rgba(247, 0, 255, 0.445);
+cursor: pointer;
+}
+
